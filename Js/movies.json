@@ -1,0 +1,42 @@
+var moviesdata=[ {
+            "img":"img/inc.jpg",
+            "mylist":"All",
+            "title":"MARY",
+            "description":"A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O. ",
+            "like": 20       
+        },{
+            "img":"img/bs.jpg",
+            "mylist":"All",
+            "title":"HAPPY",
+            "description":"ROMANCE +18 ",
+            "like": 0 
+        },{
+
+            "img":"img/gravity.jpg",
+            "mylist":"All",
+            "title":"JOKER",
+            "description":"HORROR +18. ",
+            "like": 0 
+        },{
+
+            "img":"img/elcamino.jpg",
+            "mylist":"All",
+            "title":"MURDER",
+            "description":"ACTION FILM +18.",
+            "like": 0
+        },{
+
+            "img":"img/sm.jpg",
+            "mylist":"All",
+            "title":"ZOMBILAND",
+            "description":"ACTION FILM AND HORROR",
+            "like": 2 
+        },{
+            "img":"img/abm.jpg",
+            "mylist":"All",
+            "title":"EMERGNCY",
+            "description":"ACTION FILM.",
+            "like": 0 
+        }
+
+];

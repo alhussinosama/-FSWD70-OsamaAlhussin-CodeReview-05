@@ -1,0 +1,21 @@
+@media (min-width: 981px) {
+
+
+.myr
+{
+width:100%;
+height:100%;
+position:relative;
+}
+
+.myb
+{
+
+position:absolute;
+right:0px;
+bottom:0px;
+
+}
+
+
+}
